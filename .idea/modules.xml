@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yaving_amap.iml" filepath="$PROJECT_DIR$/yaving_amap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/yaving_amap_android.iml" filepath="$PROJECT_DIR$/android/yaving_amap_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/yaving_amap_example_android.iml" filepath="$PROJECT_DIR$/example/android/yaving_amap_example_android.iml" />
+    </modules>
+  </component>
+</project>
